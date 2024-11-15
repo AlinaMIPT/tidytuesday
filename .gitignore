@@ -3,5 +3,4 @@
 .RData
 .Ruserdata
 Add new folder to git.R
-.DS_Store/
-TidyTuesday.Rproj
+.DS_Store
